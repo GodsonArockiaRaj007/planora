@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/planora/static/css/main.e6c13ad2.css",
-    "main.js": "/planora/static/js/main.ba4a7a29.js",
+    "main.js": "/planora/static/js/main.b75eb587.js",
     "static/js/453.f634854d.chunk.js": "/planora/static/js/453.f634854d.chunk.js",
     "index.html": "/planora/index.html",
     "main.e6c13ad2.css.map": "/planora/static/css/main.e6c13ad2.css.map",
-    "main.ba4a7a29.js.map": "/planora/static/js/main.ba4a7a29.js.map",
+    "main.b75eb587.js.map": "/planora/static/js/main.b75eb587.js.map",
     "453.f634854d.chunk.js.map": "/planora/static/js/453.f634854d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ba4a7a29.js"
+    "static/js/main.b75eb587.js"
   ]
 }
